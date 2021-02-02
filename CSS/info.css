@@ -52,7 +52,7 @@
     justify-content: center;
 }
 #logo-container>img {
-    max-width: 70%;
+    max-width: 50%;
     border: 20px solid pink;
 }
 
